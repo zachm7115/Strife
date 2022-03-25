@@ -13,12 +13,30 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-03-25T13:24:06.239-04:00
+  lastUpdatedAtString: 2022-03-25T13:50:23.460-04:00
   initializedAtString: 2022-03-25T13:16:34.836-04:00
   entries:
+  - path: Strife 5.0/Assets/Mapbox/Examples/0_PrefabScenes/Location-basedGame.unity
+    fullPath: /Users/robertglazer/Documents/GitHub/Strife/Strife 5.0/Assets/Mapbox/Examples/0_PrefabScenes/Location-basedGame.unity
+    projectPath: Assets/Mapbox/Examples/0_PrefabScenes/Location-basedGame.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Strife 5.0/Library/ArtifactDB
+    fullPath: /Users/robertglazer/Documents/GitHub/Strife/Strife 5.0/Library/ArtifactDB
+    projectPath: Library/ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Strife 5.0/Library/gfu/cache/branches.yaml
     fullPath: /Users/robertglazer/Documents/GitHub/Strife/Strife 5.0/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Strife 5.0/Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/robertglazer/Documents/GitHub/Strife/Strife 5.0/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -43,6 +61,12 @@ MonoBehaviour:
   - path: Strife 5.0/Library/gfu/cache/gituser.yaml
     fullPath: /Users/robertglazer/Documents/GitHub/Strife/Strife 5.0/Library/gfu/cache/gituser.yaml
     projectPath: Library/gfu/cache/gituser.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Strife 5.0/Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/robertglazer/Documents/GitHub/Strife/Strife 5.0/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
