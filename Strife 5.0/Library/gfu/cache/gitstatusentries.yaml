@@ -13,9 +13,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-03-25T13:50:23.460-04:00
+  lastUpdatedAtString: 2022-03-25T13:54:44.691-04:00
   initializedAtString: 2022-03-25T13:16:34.836-04:00
   entries:
+  - path: .gitignore
+    fullPath: /Users/robertglazer/Documents/GitHub/Strife/.gitignore
+    projectPath: ../.gitignore
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Strife 5.0/Assets/Mapbox/Examples/0_PrefabScenes/Location-basedGame.unity
     fullPath: /Users/robertglazer/Documents/GitHub/Strife/Strife 5.0/Assets/Mapbox/Examples/0_PrefabScenes/Location-basedGame.unity
     projectPath: Assets/Mapbox/Examples/0_PrefabScenes/Location-basedGame.unity
@@ -64,15 +70,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Strife 5.0/Library/gfu/cache/repoinfo.yaml
-    fullPath: /Users/robertglazer/Documents/GitHub/Strife/Strife 5.0/Library/gfu/cache/repoinfo.yaml
-    projectPath: Library/gfu/cache/repoinfo.yaml
+  - path: Strife 5.0/Library/SceneVisibilityState.asset
+    fullPath: /Users/robertglazer/Documents/GitHub/Strife/Strife 5.0/Library/SceneVisibilityState.asset
+    projectPath: Library/SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
   - path: Strife 5.0/Library/SourceAssetDB
     fullPath: /Users/robertglazer/Documents/GitHub/Strife/Strife 5.0/Library/SourceAssetDB
     projectPath: Library/SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Strife 5.0/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: /Users/robertglazer/Documents/GitHub/Strife/Strife 5.0/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Strife 5.0/Temp/__Backupscenes/0.backup
+    fullPath: /Users/robertglazer/Documents/GitHub/Strife/Strife 5.0/Temp/__Backupscenes/0.backup
+    projectPath: Temp/__Backupscenes/0.backup
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
