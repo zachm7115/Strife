@@ -3,11 +3,12 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 # Strife 5.0/[Ll]ibrary/
-# Strife 5.0/[Tt]emp/
+Strife 5.0/[Ll]ibrary/[Aa]rtifacts/
+Strife 5.0/[Tt]emp/
 # Strife 5.0/[Oo]bj/
 # Strife 5.0/[Bb]uild/
 Strife 5.0/[Bb]uilds/
-# Strife 5.0/[Ll]ogs/
+Strife 5.0/[Ll]ogs/
 # Strife 5.0/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
