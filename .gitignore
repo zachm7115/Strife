@@ -2,17 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-Strife 0.0.6/[Ll]ibrary/[Aa]rtifacts/
-# Strife 0.0.6/[Ll]ibrary/[Pp]ackage[Cc]ache/
-Strife 0.0.6/[Ll]ibrary/[Ss]hader[Cc]ache/
-Strife 0.0.6/[Ll]ibrary/[Ss]tate[Cc]ache/
-Strife 0.0.6/[Ll]ibrary/[Ss]criptAssemblies/
+Strife 0.0.6/[Ll]ibrary/
 Strife 0.0.6/[Tt]emp/
-# Strife 0.0.6/[Oo]bj/
-# Strife 0.0.6/[Bb]uild/
+Strife 0.0.6/[Oo]bj/
+Strife 0.0.6/[Bb]uild/
 Strife 0.0.6/[Bb]uilds/
 Strife 0.0.6/[Ll]ogs/
-# Strife 0.0.6/[Uu]ser[Ss]ettings/
+Strife 0.0.6/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -50,8 +46,6 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
-*.yaml
-
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -66,75 +60,13 @@ sysinfo.txt
 *.aab
 *.unitypackage
 *.app
-*.yaml
 
 # Crashlytics generated file
 crashlytics-build.properties
 
 # Packed Addressables
-/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
-*.yaml
+Strife 0.0.6/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 
 # Temporary auto-generated Android Assets
-/[Aa]ssets/[Ss]treamingAssets/aa.meta
-/[Aa]ssets/[Ss]treamingAssets/aa/*
-*.yaml
-*.yaml
-#Strife 0.0.6/Assets/XR
-#Strife 0.0.6/Assets/Mapbox
-#Strife 0.0.6/Assets/ThirdPartyAssets
-Strife 0.0.6/Temp/UnityTempFile-1bb1c904d8a44fa499b43f82ea6ca465
-.gitignore.txt
-
-#Files in PackageCache
-Strife 0.0.6/Library/PackageCache/com.unity.collab-proxy@1.15.13
-Strife 0.0.6/Library/PackageCache/com.unity.editorcoroutines@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.ext.nunit@1.0.6
-Strife 0.0.6/Library/PackageCache/com.unity.ide.rider@2.0.7
-Strife 0.0.6/Library/PackageCache/com.unity.ide.visualstudio@2.0.14
-Strife 0.0.6/Library/PackageCache/com.unity.ide.vscode@1.2.5
-Strife 0.0.6/Library/PackageCache/com.unity.modules.ai@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.androidjni@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.animation@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.assetbundle@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.audio@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.cloth@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.director@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.imageconversion@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.imgui@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.jsonserialize@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.particlesystem@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.physics@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.physics2d@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.screencapture@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.subsystems@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.terrain@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.terrainphysics@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.tilemap@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.ui@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.uielements@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.uielementsnative@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.umbra@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.unityanalytics@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.unitywebrequest@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.unitywebrequestaudio@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.unitywebrequesttexture@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.unitywebrequestwww@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.vehicles@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.video@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.vr@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.wind@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.modules.xr@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.services.core@1.0.1
-Strife 0.0.6/Library/PackageCache/com.unity.subsystemregistration@1.1.0
-Strife 0.0.6/Library/PackageCache/com.unity.test-framework@1.1.31
-Strife 0.0.6/Library/PackageCache/com.unity.textmeshpro@3.0.6
-Strife 0.0.6/Library/PackageCache/com.unity.timeline@1.4.8
-Strife 0.0.6/Library/PackageCache/com.unity.ugui@1.0.0
-Strife 0.0.6/Library/PackageCache/com.unity.xr.arcore@4.2.2
-Strife 0.0.6/Library/PackageCache/com.unity.xr.arfoundation@4.2.2
-Strife 0.0.6/Library/PackageCache/com.unity.xr.arkit@4.2.2
-Strife 0.0.6/Library/PackageCache/com.unity.xr.arsubsystems@4.2.2
-Strife 0.0.6/Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.9
-Strife 0.0.6/Library/PackageCache/com.unity.xr.management@4.0.1
+Strife 0.0.6/[Aa]ssets/[Ss]treamingAssets/aa.meta
+Strife 0.0.6/[Aa]ssets/[Ss]treamingAssets/aa/*
