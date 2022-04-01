@@ -2,7 +2,18 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-Strife 0.0.6/[Ll]ibrary/
+
+#Figuring out what libraries can stay and what needs to go: 
+Strife 5.0/[Ll]ibrary/[Aa]rtifacts/
+Strife 5.0/[Ll]ibrary/[Pp]ackage[Cc]ache/
+Strife 5.0/[Ll]ibrary/[Ss]hader[Cc]ache/
+Strife 5.0/[Ll]ibrary/[Ss]tate[Cc]ache/
+Strife 5.0/[Ll]ibrary/[Ss]criptAssemblies/
+#Strife 0.0.6/[Ll]ibrary/
+
+
+#Other directories that go: 
+
 Strife 0.0.6/[Tt]emp/
 Strife 0.0.6/[Oo]bj/
 Strife 0.0.6/[Bb]uild/
